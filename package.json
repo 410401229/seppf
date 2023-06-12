@@ -15,7 +15,7 @@
     "dayjs": "^1.8.12",
     "echarts": "^4.2.1",
     "element-ui": "^2.12.0",
-    "gantt-elastic": "^0.13.9",
+    "gantt-elastic": "^0.14.3",
     "gantt-elastic-header": "^0.1.1",
     "html2canvas": "^1.0.0-rc.1",
     "inline-attachment": "^2.0.3",
