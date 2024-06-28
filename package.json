@@ -13,7 +13,7 @@
     "axios": "^0.18.0",
     "codemirror": "^5.24.2",
     "dayjs": "^1.8.12",
-    "echarts": "^4.2.1",
+    "echarts": "^5.5.1",
     "element-ui": "^2.12.0",
     "gantt-elastic": "^0.13.9",
     "gantt-elastic-header": "^0.1.1",
