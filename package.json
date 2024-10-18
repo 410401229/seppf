@@ -27,7 +27,7 @@
     "markdown-loader": "^4.0.0",
     "marked": "^0.3.6",
     "v-contextmenu": "^2.7.0",
-    "vue": "^2.6.10",
+    "vue": "^3.0.0",
     "vue-cropperjs": "^2.2.1",
     "vue-github-button": "^1.1.2",
     "vue-markdown": "^2.2.4",
